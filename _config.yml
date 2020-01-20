@@ -1,11 +1,11 @@
 # Site settings
 author: Joseph DeGregorio
-title: 
+title: From Carpenter to Coder
 header-img: img/home-bg.png
 email: degregorio.joseph@gmail.com
 copyright_name: Joseph DeGregorio
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A builders journey.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JoeDeGr
