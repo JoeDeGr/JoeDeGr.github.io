@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Gem of a time Scraping Markets for stocks."
-date:       2020-04-04 17:13:46 +0000
+date:       2020-04-04 13:13:47 -0400
 permalink:  a_gem_of_a_time_scraping_markets_for_stocks
 ---
 
