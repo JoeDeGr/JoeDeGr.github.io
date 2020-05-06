@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Adventures in CSS"
-date:       2020-05-06 19:02:38 +0000
+date:       2020-05-06 15:02:39 -0400
 permalink:  adventures_in_css
 ---
 
